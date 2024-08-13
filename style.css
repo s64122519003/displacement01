@@ -4,6 +4,12 @@ html {
 }
 body {
   font-family: Arial, sans-serif;
+  color: #2a5ff1;
+}
+h1 {
+  font-family: Impact;
+  font-size: 200%;
+  color: #7a78078e; 	
 }
 .container {
   display: flex;
@@ -23,3 +29,5 @@ body {
       flex-direction: column;
   }
 }
+
+
